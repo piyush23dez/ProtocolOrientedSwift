@@ -47,3 +47,6 @@ extension UITableView {
         return cell
     }
 }
+
+//tableView.register(CustomTableViewCell.self)
+//let cell = tableView.dequeueReusableCell(forIndexPath: indexPath) as CustomTableViewCell
